@@ -1,7 +1,7 @@
-- 🔭 Working on `.NET stack`
-- 🌱 Learning on `Cloud Architecture`, `Systems Design`
-- 👀 Focusing on `Azure`, `Docker`
-- ⚙️ Use daily: `.cs`, `.js`, `.svc`, `.asmx`, `.cshtml`, `.aspx`, `.ascx`, `.css`, `.sql`, `.nupkg`, `.json`, `.xml`
+- 🔭 Mostly Working on `.NET stack` 
+- 🌱       Learning on `Cloud Architecture`, `Systems Design`
+- 👀       Focusing on `Azure`, `Docker`
+- ⚙️    Daily using on `.cs`, `.js`, `.svc`, `.asmx`, `.cshtml`, `.aspx`, `.ascx`, `.css`, `.sql`, `.nupkg`, `.json`, `.xml`
 
 <details><summary>do not click</summary>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br></details>
 <br />
