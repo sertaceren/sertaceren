@@ -1,4 +1,4 @@
-- 🔭 Mostly Working on `.NET stack` 
+- 🔭 Mostly working on `.NET stack` 
 - 🌱       Learning on `Cloud Architecture`, `Systems Design`
 - 👀       Focusing on `Azure`, `Docker`
 - ⚙️    Daily using on `.cs`, `.js`, `.svc`, `.asmx`, `.cshtml`, `.aspx`, `.ascx`, `.css`, `.sql`, `.nupkg`, `.json`, `.xml`
